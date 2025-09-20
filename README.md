@@ -11,6 +11,10 @@ This app makes the process effortless by using **speech recognition** and **fuzz
 ## 🎥 Demo
 
 
+https://github.com/user-attachments/assets/cbb343da-1f77-42fa-b5ec-24f5f9ff5ea9
+
+
+
 ---
 
 ## ✨ Features
