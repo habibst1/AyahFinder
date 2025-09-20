@@ -1,0 +1,6 @@
+# Ignore the Project 1 folder
+Project 1/
+
+# Ignore the Warmup File
+Python Flask Backend/audio.mp3
+context.txt
