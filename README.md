@@ -3,7 +3,7 @@
 ## Overview
 This project is a **mobile application and backend system** designed to help worshippers follow along with the imam during prayers.  
 Many people in mosques try to identify which verse the imam is reciting by searching manually on their phones.  
-This app makes the process effortless by using **speech recognition** and **fuzzy matching** against the Qur’an.
+This app makes the process effortless by using **speech recognition** and **fuzzy matching** against the Qur’an. 
 
 ---
 
